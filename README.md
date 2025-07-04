@@ -84,9 +84,8 @@ And the chatbot will answer instantly using AI ✨
 | Component       | Tech Stack                          |
 |----------------|--------------------------------------|
 | Frontend        | React.js, Tailwind CSS              |
-| Backend         | Node.js, Express.js                 |
-| AI Engine       | OpenAI GPT API                      |
-| Hosting         | Netlify (Frontend), Render (Backend)|
+| Backend         | Node.js, Express.js                 |                    |
+| Hosting         | Netlify (Frontend)
 | Database        | Static JSON (for now, can be MongoDB)|
 
 ---
