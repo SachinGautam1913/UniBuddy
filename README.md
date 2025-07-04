@@ -15,10 +15,7 @@ An intelligent, interactive AI-powered chatbot developed to assist students, fac
 ## 🛠️ Tech Stack
 
 - **Frontend**: React / HTML / CSS / JavaScript (Mention actual framework used)
-- **Backend**: Node.js / Express / Flask / Django (as applicable)
-- **AI Model**: OpenAI GPT / Rasa / Dialogflow / Custom NLP (mention which one)
-- **Database**: MongoDB / MySQL / Firebase / etc.
-- **Deployment**: Vercel / Netlify / Heroku / Render / etc.
+- **Deployment**: Vercel / Netlify / Render / etc.
 
 ## 🚀 How to Run the Project
 
