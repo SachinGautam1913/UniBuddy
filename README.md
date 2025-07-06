@@ -1,6 +1,6 @@
 # 🎓 UniBuddy – AI-Powered University Student Assistant 🤖
 
-🔗 **Live Link:** [https://unibuddystudentaiassitent.netlify.app](https://unibuddystudentaiassitent.netlify.app)
+🔗 **Live Link:** unibuddyouracadmicassistent.netlify.app
 
 ---
 
